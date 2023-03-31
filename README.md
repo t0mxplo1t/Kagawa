@@ -1,5 +1,7 @@
 # IP Tracking Tool
-Kagawa is a tool used to extract information from IP addresses of people/self/and websites 
+Kagawa is a tool used to extract information from IP addresses of people/self/and websites
+
+Powered by https://ip-api.com/
 # Generated information
 1. Status
 2. IP
@@ -31,6 +33,8 @@ git clone https://github.com/14sept2002/Kagawa.git
 cd Kagawa
 
 python kagawa.py
+# Inspired by
+
 
 
 
