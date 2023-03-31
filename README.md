@@ -1,6 +1,3 @@
-<img
-src="https://img.shields.io/twitter/follow/rohmadhidayah14?style=social">
-
 # IP Tracking Tool
 Kagawa is a tool used to extract information from IP addresses version 4 or 6 of people/self/and websites
 
