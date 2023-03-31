@@ -1,3 +1,5 @@
+# Function
+Kagawa is a tool used to extract information from IP addresses of people/self/and websites 
 # Tested on
 Termux
 # Installation
