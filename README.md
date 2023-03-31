@@ -1,8 +1,11 @@
-# IP Tracking Tool
-Kagawa is a tool used to extract information from IP addresses version 4 or 6 of people/self/and websites
+Kagawa
+----
+Kagawa is a tool used to extract information from IP addresses version 4 or 6
 
-Powered by `https://ip-api.com/`
-# Generated information
+Powered by https://ip-api.com
+
+Results
+----
 - Status
 - IP
 - Country
@@ -21,13 +24,19 @@ Powered by `https://ip-api.com/`
 - Private IP
 - Version
 - Bit
-# Tested on
+
+Tested on
+----
 Termux
-# Requirements
-Python
-# Module installation
+
+Requirements
+----
+- Python
+
 `pip install ipaddress`
-# Commands
+
+Commands
+----
 `apt install git`
 
 `git clone https://github.com/14sept2002/Kagawa.git`
@@ -35,5 +44,7 @@ Python
 `cd Kagawa`
 
 `python kagawa.py`
-# Inspired by
+
+Inspired by
+----
 `https://github.com/maldevel/IPGeoLocation`
